@@ -1,0 +1,5 @@
+Hydrogen,Methane,Acetylene,Ethylene,Ethane,CO,Condition
+50,80,10,20,30,200,Normal
+300,200,40,70,80,500,Caution
+900,700,60,150,120,1000,Abnormal
+2000,1500,100,300,250,2000,Danger
